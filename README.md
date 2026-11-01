@@ -213,4 +213,4 @@ Yandex Browser is offered as a full free version with all features and updates i
 Download Yandex Browser today for a secure and efficient browsing experience! Enjoy all its features for free and stay connected with the internet like never before.
 
 ---
-**Last updated:** 2026-10-31 22:12:00 UTC
+**Last updated:** 2026-11-01 01:52:05 UTC
